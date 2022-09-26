@@ -8,10 +8,18 @@
 
 </Property>
 	<Item Name="Actors" Type="Folder">
-		<Item Name="Main Window Msgs" Type="Folder">
+		<Item Name="Main Window Interface Msg" Type="Folder">
+			<Item Name="Recipe Label Changed Msg.lvclass" Type="LVClass" URL="../Actors/Main Window Interface Messages/Recipe Label Changed Msg/Recipe Label Changed Msg.lvclass"/>
+		</Item>
+		<Item Name="Main Window Msg" Type="Folder">
 			<Item Name="New Recipe Window Msg.lvclass" Type="LVClass" URL="../Actors/Main Window Messages/New Recipe Window Msg/New Recipe Window Msg.lvclass"/>
 			<Item Name="Show Recipe Msg.lvclass" Type="LVClass" URL="../Actors/Main Window Messages/Show Recipe Msg/Show Recipe Msg.lvclass"/>
 		</Item>
+		<Item Name="Recipe Window Msg" Type="Folder">
+			<Item Name="Change Recipe Label Msg.lvclass" Type="LVClass" URL="../Actors/Recipe Window Messages/Change Recipe Label Msg/Change Recipe Label Msg.lvclass"/>
+			<Item Name="Recipe Label Changed-Event Msg.lvclass" Type="LVClass" URL="../Actors/Recipe Window Messages/Recipe Label Changed-Event Msg/Recipe Label Changed-Event Msg.lvclass"/>
+		</Item>
+		<Item Name="Main Window Interface.lvclass" Type="LVClass" URL="../Actors/Main Window Interface/Main Window Interface.lvclass"/>
 		<Item Name="Main Window.lvclass" Type="LVClass" URL="../Actors/Main Window/Main Window.lvclass"/>
 		<Item Name="Recipe Window.lvclass" Type="LVClass" URL="../Actors/Recipe Window/Recipe Window.lvclass"/>
 	</Item>
