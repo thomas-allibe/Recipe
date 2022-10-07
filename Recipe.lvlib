@@ -16,7 +16,8 @@
 			<Item Name="Show Recipe Msg.lvclass" Type="LVClass" URL="../Actors/Main Window Messages/Show Recipe Msg/Show Recipe Msg.lvclass"/>
 		</Item>
 		<Item Name="Recipe Window Msg" Type="Folder">
-			<Item Name="Change Recipe Label Msg.lvclass" Type="LVClass" URL="../Actors/Recipe Window Messages/Change Recipe Label Msg/Change Recipe Label Msg.lvclass"/>
+			<Item Name="Change Actor Label Msg.lvclass" Type="LVClass" URL="../Actors/Recipe Window Messages/Change Recipe Label Msg/Change Actor Label Msg.lvclass"/>
+			<Item Name="Change Recipe Label Control Msg.lvclass" Type="LVClass" URL="../Actors/Recipe Window Messages/Change Recipe Label Control Msg/Change Recipe Label Control Msg.lvclass"/>
 			<Item Name="Recipe Label Changed-Event Msg.lvclass" Type="LVClass" URL="../Actors/Recipe Window Messages/Recipe Label Changed-Event Msg/Recipe Label Changed-Event Msg.lvclass"/>
 		</Item>
 		<Item Name="Main Window Interface.lvclass" Type="LVClass" URL="../Actors/Main Window Interface/Main Window Interface.lvclass"/>

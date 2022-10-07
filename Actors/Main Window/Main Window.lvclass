@@ -85,7 +85,7 @@
 				<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 			</Item>
 			<Item Name="Recipe Label Changed.vi" Type="VI" URL="../Overrides/Recipe Label Changed.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$R!=!!?!!!C$&amp;*F9WFQ:3ZM&gt;GRJ9B..97FO)&amp;&gt;J&lt;G2P&gt;SZM&gt;G.M98.T!!!047&amp;J&lt;C"8;7ZE&lt;X=A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%E!Q`````QF/:8=A4'&amp;C:7Q!%E!Q`````QF0&lt;'1A4'&amp;C:7Q!0%"Q!"Y!!#)-5G6D;8"F,GRW&lt;'FC%UVB;7YA6WFO:'^X,GRW9WRB=X-!!!Z.97FO)&amp;&gt;J&lt;G2P&gt;S"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!)1!!!#%!!!!*!!!!!!!1!+!!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$R!=!!?!!!C$&amp;*F9WFQ:3ZM&gt;GRJ9B..97FO)&amp;&gt;J&lt;G2P&gt;SZM&gt;G.M98.T!!!047&amp;J&lt;C"8;7ZE&lt;X=A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%E!Q`````QF/:8=A4'&amp;C:7Q!%E!Q`````QF0&lt;'1A4'&amp;C:7Q!0%"Q!"Y!!#)-5G6D;8"F,GRW&lt;'FC%UVB;7YA6WFO:'^X,GRW9WRB=X-!!!Z.97FO)&amp;&gt;J&lt;G2P&gt;S"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!3!!!!%A!!!*)!!!!!!1!+!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
@@ -122,6 +122,15 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
+		<Item Name="Rename Recipe In List.vi" Type="VI" URL="../SubVIs/Rename Recipe In List.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%Q!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!)1F*=S"797RJ:$]!"1!$!!!?1(!!#!!"!!9!$!!!$URJ=X2#&lt;XAA5G6G)%^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````]*4G6X)%RB9G6M!"*!-0````]*4WRE)%RB9G6M!"Z!=!!)!!%!"A!-!!!/4'FT&gt;%*P?#"3:79A37Y!!&amp;1!]!!-!!-!"!!&amp;!!=!"!!%!!1!"!!)!!E!#A!,!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!##!!!!AA!!!!)!!!!!!%!$!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
